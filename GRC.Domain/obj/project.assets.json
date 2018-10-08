@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel.castro\\Documents\\Meus Projetos .NET\\GRC\\GRC.Domain\\GRC.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel.castro\\Documents\\GitHub\\GRC\\GRC.Domain\\GRC.Domain.csproj",
       "projectName": "GRC.Domain",
-      "projectPath": "C:\\Users\\Gabriel.castro\\Documents\\Meus Projetos .NET\\GRC\\GRC.Domain\\GRC.Domain.csproj",
+      "projectPath": "C:\\Users\\Gabriel.castro\\Documents\\GitHub\\GRC\\GRC.Domain\\GRC.Domain.csproj",
       "packagesPath": "C:\\Users\\Gabriel.castro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel.castro\\Documents\\Meus Projetos .NET\\GRC\\GRC.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel.castro\\Documents\\GitHub\\GRC\\GRC.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

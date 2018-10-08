@@ -12,3 +12,17 @@ C:\Users\Gabriel.castro\Documents\Meus Projetos .NET\GRC\GRC.Data\obj\Debug\netc
 C:\Users\Gabriel.castro\Documents\Meus Projetos .NET\GRC\GRC.Data\obj\Debug\netcoreapp2.1\GRC.Data.csproj.CopyComplete
 C:\Users\Gabriel.castro\Documents\Meus Projetos .NET\GRC\GRC.Data\obj\Debug\netcoreapp2.1\GRC.Data.dll
 C:\Users\Gabriel.castro\Documents\Meus Projetos .NET\GRC\GRC.Data\obj\Debug\netcoreapp2.1\GRC.Data.pdb
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Data\bin\Debug\netcoreapp2.1\GRC.Data.deps.json
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Data\bin\Debug\netcoreapp2.1\GRC.Data.runtimeconfig.json
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Data\bin\Debug\netcoreapp2.1\GRC.Data.runtimeconfig.dev.json
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Data\bin\Debug\netcoreapp2.1\GRC.Data.dll
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Data\bin\Debug\netcoreapp2.1\GRC.Data.pdb
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Data\bin\Debug\netcoreapp2.1\GRC.Domain.dll
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Data\bin\Debug\netcoreapp2.1\GRC.Domain.pdb
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Data\obj\Debug\netcoreapp2.1\GRC.Data.csprojAssemblyReference.cache
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Data\obj\Debug\netcoreapp2.1\GRC.Data.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Data\obj\Debug\netcoreapp2.1\GRC.Data.AssemblyInfoInputs.cache
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Data\obj\Debug\netcoreapp2.1\GRC.Data.AssemblyInfo.cs
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Data\obj\Debug\netcoreapp2.1\GRC.Data.csproj.CopyComplete
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Data\obj\Debug\netcoreapp2.1\GRC.Data.dll
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Data\obj\Debug\netcoreapp2.1\GRC.Data.pdb

@@ -6,3 +6,11 @@ C:\Users\Gabriel.castro\Documents\Meus Projetos .NET\GRC\GRC.Domain\obj\Debug\ne
 C:\Users\Gabriel.castro\Documents\Meus Projetos .NET\GRC\GRC.Domain\obj\Debug\netcoreapp2.1\GRC.Domain.AssemblyInfo.cs
 C:\Users\Gabriel.castro\Documents\Meus Projetos .NET\GRC\GRC.Domain\obj\Debug\netcoreapp2.1\GRC.Domain.dll
 C:\Users\Gabriel.castro\Documents\Meus Projetos .NET\GRC\GRC.Domain\obj\Debug\netcoreapp2.1\GRC.Domain.pdb
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Domain\bin\Debug\netcoreapp2.1\GRC.Domain.deps.json
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Domain\bin\Debug\netcoreapp2.1\GRC.Domain.dll
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Domain\bin\Debug\netcoreapp2.1\GRC.Domain.pdb
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Domain\obj\Debug\netcoreapp2.1\GRC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Domain\obj\Debug\netcoreapp2.1\GRC.Domain.AssemblyInfoInputs.cache
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Domain\obj\Debug\netcoreapp2.1\GRC.Domain.AssemblyInfo.cs
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Domain\obj\Debug\netcoreapp2.1\GRC.Domain.dll
+C:\Users\Gabriel.castro\Documents\GitHub\GRC\GRC.Domain\obj\Debug\netcoreapp2.1\GRC.Domain.pdb
