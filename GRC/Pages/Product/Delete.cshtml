@@ -1,0 +1,32 @@
+﻿@page "{id:int}"
+@model GRC.Application.Pages.Product.DeleteModel
+@{
+    ViewData["Title"] = "Excluir Produto";
+    Layout = "_Layout";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+    @Html.AntiForgeryToken()
+    <vc:summary />
+    <h3>Tem certeza que deseja excluir a categoria @Model.Product.Name?</h3>
+    <div>
+        @Html.HiddenFor(model => model.Product.Id)
+        @Html.HiddenFor(model => model.Product.Name)
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Product.Name)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Product.Name)
+            </dd>
+        </dl>
+        <div class="form-actions no-color">
+            <input type="submit" value="Excluir" class="btn btn-danger" />
+            <a href="@Url.Page("./Index")" class="btn btn-info">Voltar</a>
+        </div>
+    </div>
+</form>
+
